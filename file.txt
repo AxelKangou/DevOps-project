@@ -1,0 +1,7 @@
+This is file 1
+
+welcome to devops project
+
+we had trouble inserting data and exit after 
+just press esc then :wq and that it !
+
